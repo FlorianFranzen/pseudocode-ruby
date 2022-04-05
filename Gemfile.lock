@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    execjs (2.8.1)
+    katex (0.8.0)
+      execjs (~> 2.7)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  execjs (~> 2.8)
+  katex (~> 0.8.0)
+
+BUNDLED WITH
+   2.2.33
