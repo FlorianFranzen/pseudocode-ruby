@@ -36,6 +36,10 @@ Learn more about all the available synyax in the [documentation](https://github.
 For this rendered algorithms to look nice, you will also need to include Pseudocode CSS
 into the webpage.
 
+## Contributing
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/FlorianFranzen/pseudocode-ruby.
+
 ## License
 
 The gem is available as open source under the terms of the

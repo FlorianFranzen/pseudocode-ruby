@@ -1,3 +1,10 @@
+PATH
+  remote: .
+  specs:
+    pseudocode (0.1.1)
+      execjs (~> 2.8)
+      katex (~> 0.8)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -9,8 +16,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  execjs (~> 2.8)
-  katex (~> 0.8.0)
+  pseudocode!
 
 BUNDLED WITH
    2.2.33

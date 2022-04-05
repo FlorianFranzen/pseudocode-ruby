@@ -1,15 +1,12 @@
 # frozen_string_literal: true
 
+require_relative "pseudocode/version"
+
 require 'execjs'
 require 'katex'
 
 # Provides a Ruby wrapper for pseudocode server-side rendering.
 module Pseudocode
-  # Version of this gem
-  VERSION = '0.1.0'
-  # Version of the included Pseudocode.js
-  PSEUDOCODE_VERSION = '2.2.0'
-
   # JavaScript runtime and context
   @load_context_mutex = Mutex.new
   @context = nil
