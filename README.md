@@ -1,5 +1,7 @@
 # Pseudocode.js for Ruby
 
+[![Gem Version](https://badge.fury.io/rb/pseudocode.svg)](https://badge.fury.io/rb/pseudocode)
+
 This rubygem enables you to render LaTeX pseudocode algorithms to HTML using [pseudocode.js] and [KaTeX].
 
 This code is heavily inspired by [KaTeX for Ruby](https://github.com/glebm/katex-ruby) and it uses it and [ExecJS] under the hood.
